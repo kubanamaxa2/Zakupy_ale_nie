@@ -93,6 +93,22 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.691" />
+
+        <CheckedTextView
+            android:id="@+id/checkedTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CheckedTextView"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="608dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="<--- tu nie ma checkboxa i nie wiem gla czego"
+            tools:layout_editor_absoluteX="125dp"
+            tools:layout_editor_absoluteY="608dp" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
