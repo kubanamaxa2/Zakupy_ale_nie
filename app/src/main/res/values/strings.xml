@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zakupy ale nie</string>
+    <string name="pre_msg">CheckedTextView is</string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="checkedTextView">CheckedTextView</string>
+
+</resources>
